@@ -4,11 +4,11 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: cursive, sans-serif;
 }
 
 .body-gradient {
-    background: linear-gradient(135deg, #f0f2f5 0%, #e0e7ee 100%);
+    background: linear-gradient(135deg,#f0f8ff 0%, #e6f2ff 100%);
     background-attachment: fixed; /* Makes the gradient stay in place on scroll */
 }
 
@@ -61,3 +61,4 @@ body {
     transform: translateY(-3px) scale(1.05);
     box-shadow: 0 4px 10px rgba(13, 110, 253, 0.3);
 }
+
